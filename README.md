@@ -7,6 +7,8 @@ For this homework, I took time reviewing the given code and elemanting the use o
 
 ### Screenshot:
 
-![1homeworkscreenshot]
+![homework-screenshot](https://github.com/clmariek/code-refactor/blob/main/assets/images/1homeworkscreenshot.png)
 
 #### Link to deployed application:
+
+[deployed application](https://github.com/clmariek/code-refactor.git)

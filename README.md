@@ -3,7 +3,7 @@
 ## Overview:
 
 The objective of this homework was to refactor existing code without changing what it does.
-For this homework, I took time reviewing the given code and elemanting the use of multiple <div> tags used through out by replacing them with elements. 
+For this homework, I took time reviewing the given code and elemanting the use of multiple div tags used through out by replacing them with elements. 
 
 ### Screenshot:
 
@@ -11,4 +11,4 @@ For this homework, I took time reviewing the given code and elemanting the use o
 
 #### Link to deployed application:
 
-[deployed application](https://github.com/clmariek/code-refactor.git)
+[Homework1](https://github.com/clmariek/code-refactor.git)

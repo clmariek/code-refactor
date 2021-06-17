@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The objective of this homework was to refactor existing code without changing what it does.
+The objective of this homework was to refactor existing code without changing what it does. Important factors considered were improving website access amity and code base long-term sustainability. 
 I reviewed the given code and eliminated the use of multiple div tags used through out the code by replacing them with elements. 
 
 ### Screenshot:

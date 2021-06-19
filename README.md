@@ -11,4 +11,4 @@ I reviewed the given code and eliminated the use of multiple div tags used throu
 
 #### Link to deployed application:
 
-[Homework1](https://github.com/clmariek/code-refactor.git)
+[code-refactor-homework](https://github.com/clmariek/code-refactor.git)
